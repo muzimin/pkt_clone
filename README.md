@@ -7,8 +7,6 @@ Cloning network packet tool for reducing the impact of packet loss.
 ##install
 
 make
---------
-
 
 ##Usage: sudo ./pkt_clone interface 'filter expression'
 
